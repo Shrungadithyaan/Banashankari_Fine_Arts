@@ -7,6 +7,8 @@ export default authMiddleware({
     "/products/(.*)",
     "/about",
     "/contact",
+    "/sign-in",
+    "/sign-up",
     "/api/products",
     "/api/testimonials",
     "/api/upload",
