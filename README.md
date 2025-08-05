@@ -57,10 +57,10 @@ A beautiful, modern, and fully functional website for Banashankari Fine Arts, a 
 3. **Set up environment variables**
    Create a `.env.local` file in the root directory:
    ```env
-   MONGODB_URI=mongodb+srv://gestff871:Y3OJXKL0eda3PEpO@banashankari-cluster.k0b5sod.mongodb.net/
-   CLOUDINARY_URL=cloudinary://595193429196279:hVXyWwoFcvlEEyF5O9BjQEzUi6I@dz03kklic
-   NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_Zml0dGluZy15YWstMTEuY2xlcmsuYWNjb3VudHMuZGV2JA
-   CLERK_SECRET_KEY=sk_test_M3ooddjNIOyIO8TubEalkQxew9x1rlrZr8NG1XQ4Vq
+   MONGODB_URI=
+   CLOUDINARY_URL=
+   NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+   CLERK_SECRET_KEY=
    NEXT_PUBLIC_SITE_URL=http://localhost:3001
    NEXT_PUBLIC_SITE_NAME=Banashankari Fine Arts
    ```
